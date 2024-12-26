@@ -17,6 +17,6 @@ def contagem_regressiva():
     for i in range(10, 0, -1):
         print(f"{i}...")
         time.sleep(1)
-        print("\nFeliz Natal!\nFeliz Navidad!\nMerry Christmas!\nJoyeux Noël!\n")
-        print("Desejamos a todos um excelente Natal e um próspero Ano Novo!")
+        print("\nFeliz Natal\n")
+        print("Desejamos a todos um excelente Natal e um próspero Ano Novo 2025!")
 contagem_regressiva()
